@@ -1,6 +1,6 @@
 # new-vue-app
 
-> new vue app
+vue app following [this tutorial](https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node)
 
 ## Build Setup
 
